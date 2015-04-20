@@ -1,0 +1,5 @@
+{
+    "username" : "username",
+    "apikey" : "myreallylongapikeyismanycharacters123456",
+    "gtfsUrl" : "http://www.bart.gov/dev/schedules/google_transit.zip"
+}
