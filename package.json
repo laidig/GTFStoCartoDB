@@ -9,12 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "adm-zip": "^0.4.7",
     "fast-csv": "^0.6.0",
+    "file-url": "^1.0.1",
     "fs": "0.0.2",
     "http": "0.0.0",
     "replace": "^0.3.0",
     "request": "^2.55.0",
+    "unzip-wrapper": "^0.1.5",
     "walk": "^2.3.9"
   }
 }
